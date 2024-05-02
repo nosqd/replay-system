@@ -68,7 +68,7 @@ int main(int argc, char *argv[])
             ImGui::Separator();
             if (ImGui::Button("GitHub"))
             {
-                OpenURL("https://github.com/nosqd/replay-game");
+                OpenURL("https://github.com/nosqd/replay-system");
             }
             ImGui::End();
         }
