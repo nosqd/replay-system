@@ -1,0 +1,7 @@
+{
+    "C_Cpp.default.compileCommands": "d:\\projects\\nullsqd\\lerp-movement-test\\builddir/compile_commands.json",
+    "C_Cpp.default.configurationProvider": "mesonbuild.mesonbuild",
+    "files.associations": {
+        "xlocale": "cpp"
+    }
+}
